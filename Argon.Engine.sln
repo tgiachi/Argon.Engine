@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Argon.Api", "Argon.Api\Argo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Argon.Engine", "Argon.Engine\Argon.Engine.csproj", "{1F8EF8A1-4EE1-4E66-B169-86D18226CFCF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Argon.Movie.Indexer", "Argon.Movie.Indexer\Argon.Movie.Indexer.csproj", "{AA6937C5-1F67-4338-ACEA-E98459301BE5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{1F8EF8A1-4EE1-4E66-B169-86D18226CFCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F8EF8A1-4EE1-4E66-B169-86D18226CFCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F8EF8A1-4EE1-4E66-B169-86D18226CFCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA6937C5-1F67-4338-ACEA-E98459301BE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA6937C5-1F67-4338-ACEA-E98459301BE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA6937C5-1F67-4338-ACEA-E98459301BE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA6937C5-1F67-4338-ACEA-E98459301BE5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

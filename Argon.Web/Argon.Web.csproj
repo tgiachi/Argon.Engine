@@ -15,10 +15,7 @@
   <ItemGroup>
     <ProjectReference Include="..\Argon.Api\Argon.Api.csproj" />
     <ProjectReference Include="..\Argon.Engine\Argon.Engine.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="Controllers\" />
+    <ProjectReference Include="..\Argon.Movie.Indexer\Argon.Movie.Indexer.csproj" />
   </ItemGroup>
 
 
